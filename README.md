@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Node.js Cron Alerts for Metrics API Failure Thresholds](posts/node-js-cron-alerts-for-metrics-api-failure-thresholds.md)
 - [Why LLM moderation false positives happen, and how to route allow, review, or block](posts/why-llm-moderation-false-positives-happen-and-how-to-route-allow-review.md)
 - [One API key for OpenAI, Claude, and Gemini: picking a unified LLM backend](posts/one-api-key-for-openai-claude-and-gemini-picking-a-unified-llm-backend.md)
 - [GDPR-compliant speech-to-text API options for an EU startup: what I picked and why](posts/gdpr-compliant-speech-to-text-api-options-for-an-eu-startup-what-i-picke.md)
