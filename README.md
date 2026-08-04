@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [A US/EU Failure-Test Matrix for One-Key Node.js SaaS Chatbot APIs](posts/a-us-eu-failure-test-matrix-for-one-key-node-js-saas-chatbot-apis.md)
 - [Node.js Cron Alerts for Metrics API Failure Thresholds](posts/node-js-cron-alerts-for-metrics-api-failure-thresholds.md)
 - [Why LLM moderation false positives happen, and how to route allow, review, or block](posts/why-llm-moderation-false-positives-happen-and-how-to-route-allow-review.md)
 - [One API key for OpenAI, Claude, and Gemini: picking a unified LLM backend](posts/one-api-key-for-openai-claude-and-gemini-picking-a-unified-llm-backend.md)
